@@ -30,6 +30,10 @@ MANIFEST
 #Mac OS
 .DS_Store
 
+#Untracked Files
+WeatherPy.ipynb
+API_practice.ipynb
+
 #config file with API Keys
 config.py
 
